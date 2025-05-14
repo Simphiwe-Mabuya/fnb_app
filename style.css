@@ -34,4 +34,5 @@ h3 {
 ol {
     margin-left: 25px;
     padding: 10px;
+    list-style-image: url('./images/pointer-icon.png');
 }
