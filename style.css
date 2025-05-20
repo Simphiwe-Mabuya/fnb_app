@@ -41,3 +41,7 @@ a {
     background-color: aquamarine;
     text-decoration: none ;
 }
+
+a:hover {
+    background-color: aqua;
+}
