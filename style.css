@@ -39,6 +39,7 @@ ol {
 
 a {
     font-family: Helvetica, sans-serif;
+    padding: 5px;
     background-color: aquamarine;
     text-decoration: none ;
 }
