@@ -38,12 +38,12 @@ ol {
 }
 
 a {
+    font-family: Helvetica, sans-serif;
     background-color: aquamarine;
     text-decoration: none ;
 }
 
 a:hover {
-    font-family: Helvetica, sans-serif;
     background-color: aqua;
     color: #ffffff;
 }
