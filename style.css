@@ -36,3 +36,7 @@ ol {
     padding: 10px;
     list-style-image: url('./images/pointer-icon.png');
 }
+
+a {
+    text-decoration: none ;
+}
