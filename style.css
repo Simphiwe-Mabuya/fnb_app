@@ -37,14 +37,14 @@ ol {
     list-style-image: url('./images/pointer-icon.png');
 }
 
-a {
+#menu-bar a {
     font-family: Helvetica, sans-serif;
     padding: 5px;
     background-color: aquamarine;
     text-decoration: none ;
 }
 
-a:hover {
+#menu-bar a:hover {
     background-color: aqua;
     color: #ffffff;
 }
